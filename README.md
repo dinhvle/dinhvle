@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **dinhvle/dinhvle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<img alt="So this is the famous JavaScript" src="https://github.com/dinhvle/dinhvle/blob/main/famousjavascript.gif?raw=true" width="100%">
